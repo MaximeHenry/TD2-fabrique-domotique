@@ -1,6 +1,7 @@
-package fr.univamu.iut.exo1;
+package fr.univamu.iut.exo4;
 
 public interface Connectable {
 
     void equiper(String gadget);
+    void demarrer();
 }
